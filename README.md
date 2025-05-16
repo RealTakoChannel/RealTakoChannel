@@ -44,4 +44,4 @@
 ---
 
 ### 🌐 Let's Connect
-[![QQ](https://img.shields.io/badge/QQ-%2312B7F5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI4IDBDNTcuMyAwIDAgNTcuMyAwIDEyOHM1Ny4zIDEyOCAxMjggMTI4czEyOC01Ny4zIDEyOC0xMjhTMTk4LjcgMCAxMjggMHptMCAyMzguNWMtNjEuMSAwLTExMC41LTQ5LjQtMTEwLjUtMTEwLjVTNjYuOSAxNy41IDEyOCAxNy41czExMC41IDQ5LjQgMTEwLjUgMTEwLjUtNDkuNCAxMTAuNS0xMTAuNSAxMTAuNXpNODcuMyAxMjMuNWgtMTV2LTE1aDE1djE1em0zNi44IDBoLTE1di0xNWgxNXYxNXptMzYuOCAwaC0xNXYtMTVoMTV2MTV6Ii8+PC9zdmc+)](tencent://message/?uin=873100637)
+[![QQ](https://img.shields.io/badge/-QQ-%2312B7F5?style=flat&logo=tencentqq&logoColor=white)](tencent://message/?uin=873100637)
