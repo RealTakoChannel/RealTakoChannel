@@ -41,7 +41,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealTakoChannel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-### 🌐 Let's Connect
-[![QQ](https://img.shields.io/badge/-QQ-%2312B7F5?style=flat&logo=tencentqq&logoColor=white)](tencent://message/?uin=873100637)
