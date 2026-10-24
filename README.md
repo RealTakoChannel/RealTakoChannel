@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Personal+Developer;Audio+Engineer" alt="Header Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Audio+Engineer;Creative+Coder" alt="Header Animation" />
 </div>
 
 
 
 
-### 🥺💻 Software Engineering Student & Developer
+### 🥺💻 Information Technology Student & Developer
 
 
 
@@ -16,6 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 
 
